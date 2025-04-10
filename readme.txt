@@ -70,7 +70,7 @@ Some highlights:
 * Data is analyzed and ready to view in near-real time.
 * Clarity won't get in the way of your site's performance.
 * There are no limits on the number of sites per account. Clarity can scale to support even the largest websites.
-* Clarity can process more than a petabyte of data from over 100 million users per month. T here are no traffic limits on these sites.
+* Clarity can process more than a petabyte of data from over 100 million users per month. There are no traffic limits on these sites.
 * Insights, powered by AI and machine learning, help you analyze the user behavior efficiently and quickly.
 * No sampling.
 
@@ -116,7 +116,7 @@ Check out more [frequently asked questions](https://docs.microsoft.com/en-us/cla
 = 0.8.0 =
 * Ability to create a new Clarity project and connect to it on WordPress without needing to go to Clarity site.
 * Ability to connect to an existing Clarity project on WordPress without needing to go to Clarity site.
-* Abiliy to sign up to Clarity on WordPress without needing to go to Clarity site.
+* Ability to sign up to Clarity on WordPress without needing to go to Clarity site.
 
 = 0.7.5 =
 * Minor fix.
